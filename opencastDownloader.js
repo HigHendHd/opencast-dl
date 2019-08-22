@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Opencast Downloader
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    http://deigner.eu
+// @version      1.0
 // @description  Download Videos from Opencast TU Wien
 // @author       Dennis Eigner
 // @match        https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=*
